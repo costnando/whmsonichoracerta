@@ -637,8 +637,15 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
 
 <table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
   <tr>
-<td>
-<h3>Ap&oacute;s ativar a Hora Certa na playlist, siga os seguintes passos:</h3>
+    <td class=cellheader>
+      <div align="center"><b>
+        Ativando a Hora Certa</b></div>    </td>
+  </tr>
+</table>
+<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0" class="alert">
+  <tr>
+    <td> 
+    <h3>Ap&oacute;s ativar a Hora Certa na playlist, siga os seguintes passos:</h3>
     1) <font color=red><b>*Aguarde pelo menos 60 segundos</b></font><br>
     2) Clique em <a href='../tools/autodj.php' target="mainFrame"><font color=red>Recursos do AutoDJ</font></a><br>
     3) Remova o AutoDj atual<br>
@@ -647,11 +654,9 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
  <div class="error"><b>IMPORTANTE:</b> Se voc&ecirc; ir em: "<b>AutoDJ Playlist Manager</b>" => <b>selecionar a "playlist para qual est&aacute; ativando" a Hora Certa</b> => e clicar em: <b>"RELOAD THE PLAYLIST"</b> a Hora Certa ser&aacute; desconfigurada e voc&ecirc; vai precisar voltar aqui para re-fazer todos os procedimentos acima para ativar a Hora Certa na frequ&ecirc;ncia correta.(Exemplo: Repetir a cada 03 m&uacute;sicas.)
  
 </div> 
-</td>
-
-</tr>
+   </td>
+  </tr>
 </table>
-
 
 <table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
   <tr>
