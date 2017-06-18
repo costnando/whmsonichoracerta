@@ -634,7 +634,10 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
   </tr>
 </table>
 
-<td width="50%">
+
+<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
+  <tr>
+<td>
 <h3>Ap&oacute;s ativar a Hora Certa na playlist, siga os seguintes passos:</h3>
     1) <font color=red><b>*Aguarde pelo menos 60 segundos</b></font><br>
     2) Clique em <a href='../tools/autodj.php' target="mainFrame"><font color=red>Recursos do AutoDJ</font></a><br>
@@ -648,8 +651,6 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
 
 </tr>
 </table>
-
-
 
 
 <table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
