@@ -634,7 +634,8 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
   </tr>
 </table>
 
-
+<table width="95%" border="0" align="center" cell cellspacing="0" class="sonic">
+  <tr>
 <table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
   <tr>
     <td class=cellheader>
@@ -642,7 +643,7 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
         Ativando a Hora Certa</b></div>    </td>
   </tr>
 </table>
-<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0" class="alert">
+<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="alert">
   <tr>
     <td> 
     <h3>Ap&oacute;s ativar a Hora Certa na playlist, siga os seguintes passos:</h3>
@@ -658,14 +659,14 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
   </tr>
 </table>
 
-<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
+<table width="45%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
   <tr>
     <td class=cellheader>
       <div align="center"><b>
         Desativar a Hora Certa corretamente</b></div>    </td>
   </tr>
 </table>
-<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0" class="alert">
+<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="alert">
   <tr>
     <td> 
     
@@ -676,7 +677,8 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
    </td>
   </tr>
 </table>
-
+  </tr>
+</table>
 <br>
 <table width="95%" border="0" align="center" cell cellspacing="0" class="sonic">
   <tr>
