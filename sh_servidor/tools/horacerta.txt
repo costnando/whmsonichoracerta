@@ -633,6 +633,44 @@ echo"<meta http-equiv='refresh' content='5'><br><font face='Arial' size='2'><str
         <br /></td>
   </tr>
 </table>
+
+<td width="50%">
+<h3>Ap&oacute;s ativar a Hora Certa na playlist, siga os seguintes passos:</h3>
+    1) <font color=red><b>*Aguarde pelo menos 60 segundos</b></font><br>
+    2) Clique em <a href='../tools/autodj.php' target="mainFrame"><font color=red>Recursos do AutoDJ</font></a><br>
+    3) Remova o AutoDj atual<br>
+    4) Ligue o AutoDj selecionando a <font color=red>Playlist</font> onde a Hora Certa foi ativada<br>
+ <div class="info">(*Se seu AutoDj estiver desligado, siga apenas o passo 1 e o 4)</div>
+ <div class="error"><b>IMPORTANTE:</b> Se voc&ecirc; ir em: "<b>AutoDJ Playlist Manager</b>" => <b>selecionar a "playlist para qual est&aacute; ativando" a Hora Certa</b> => e clicar em: <b>"RELOAD THE PLAYLIST"</b> a Hora Certa ser&aacute; desconfigurada e voc&ecirc; vai precisar voltar aqui para re-fazer todos os procedimentos acima para ativar a Hora Certa na frequ&ecirc;ncia correta.(Exemplo: Repetir a cada 03 m&uacute;sicas.)
+ 
+</div> 
+</td>
+
+</tr>
+</table>
+
+
+
+
+<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0" class="subbox">
+  <tr>
+    <td class=cellheader>
+      <div align="center"><b>
+        Desativar a Hora Certa corretamente</b></div>    </td>
+  </tr>
+</table>
+<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0" class="alert">
+  <tr>
+    <td> 
+    
+    <h3>- Para desativar a Hora Certa na playlist:</h3>
+    1) Volte aqui => clique em: <font color=red> DESATIVAR</font><br>
+    2) Siga at&eacute; o FTP e remova os arquivos: <font color=red>Hora.mp3</font> e <font color=red>Minuto.mp3</font><br>
+    3) Clique para <font color=red>gerenciar a playlist</font> => <font color=red>Reload de Playlist</font> => <font color=red>Ativar Playlist</font>
+   </td>
+  </tr>
+</table>
+
 <br>
 <table width="95%" border="0" align="center" cell cellspacing="0" class="sonic">
   <tr>
