@@ -9,7 +9,7 @@
 
 ## Usando
 ###### Instalando
-Todo os passos de instalação você [confere aqui](https://ninjashost.github.io/whmsonichoracerta/).
+Todo os passos de instalação você [confere aqui](https://fernando.nightweb.com.br/whmsonichoracerta/).
 
 ###### Ativando
 1. Crie a playlist (ela não pode ser alterada futuramente)
